@@ -4,6 +4,6 @@ Es una pequeña gráfica del retorno sobre inversión y activos de las instituci
 Nos muestra 3 cosas:
 1- Los bancos múltiples son instituciones con un alto margen de apalancamiento (el negocio de un banco es el riesgo; presta dinero ajeno con un margen de ganancia), y esto se ve en la diferencia entre el ROA, que es el retorno sobre activos, y el ROE, que es el retorno sobre capital.
 
-2- El sistema financiero mexicano no estuvo excento de la crisis global del 2008 y tampoco de la pandemia del COVID que ocurrió en 2019.
+2- El sistema financiero mexicano no estuvo excento de la crisis global del 2008 y tampoco de la pandemia del COVID que ocurrió en 2019. (en 2025 no hubo crisis, solo no hay información completa de los 12 meses, aún.)
 
 3- Entre más sana está una economía, mayor rentabilidad tienen los bancos, o ¿entre mayor rentabilidad tienen los bancos, más sana está una economía?
